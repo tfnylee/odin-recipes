@@ -11,6 +11,8 @@ I'm simply following the tutorials on odin-project so nothing too fancy!
 
 ## Lessons Learned:
 
--Formatting a readme file
--semantic html
+* Creating a formatted README file using markdown
+* HTML
+* Command Line
+* Using github
 
